@@ -1,0 +1,883 @@
+8473541,jonathan bernier,new jersey devils
+8480054,reilly walsh,new jersey devils
+8474056,p.k. subban,new jersey devils
+8475193,tomas tatar,new jersey devils
+8476462,dougie hamilton,new jersey devils
+8476903,jon gillies,new jersey devils
+8476918,jimmy vesey,new jersey devils
+8476923,damon severson,new jersey devils
+8477202,andrew hammond,new jersey devils
+8477341,andreas johnsson,new jersey devils
+8477419,mason geertsen,new jersey devils
+8477425,miles wood,new jersey devils
+8477435,ryan graves,new jersey devils
+8478399,jonas siegenthaler,new jersey devils
+8478401,pavel zacha,new jersey devils
+8478406,mackenzie blackwood,new jersey devils
+8478841,colton white,new jersey devils
+8479407,jesper bratt,new jersey devils
+8479414,nathan bastian,new jersey devils
+8479415,michael mcleod,new jersey devils
+8479511,janne kuokkanen,new jersey devils
+8480002,nico hischier,new jersey devils
+8480003,jesper boqvist,new jersey devils
+8480883,ty smith,new jersey devils
+8481068,yegor sharangovich,new jersey devils
+8481559,jack hughes,new jersey devils
+8482110,dawson mercer,new jersey devils
+8465009,zdeno chara,new york islanders
+8470610,zach parise,new york islanders
+8472382,andy greene,new york islanders
+8473504,cal clutterbuck,new york islanders
+8473575,semyon varlamov,new york islanders
+8474573,josh bailey,new york islanders
+8474709,matt martin,new york islanders
+8475151,kyle palmieri,new york islanders
+8475231,casey cizikas,new york islanders
+8475314,anders lee,new york islanders
+8475754,brock nelson,new york islanders
+8476419,jean-gabriel pageau,new york islanders
+8476429,scott mayfield,new york islanders
+8476917,adam pelech,new york islanders
+8477506,ryan pulock,new york islanders
+8477527,ross johnston,new york islanders
+8478009,ilya sorokin,new york islanders
+8478445,mathew barzal,new york islanders
+8478463,anthony beauvillier,new york islanders
+8479356,kieffer bellows,new york islanders
+8480222,sebastian aho,new york islanders
+8480789,oliver wahlstrom,new york islanders
+8480865,noah dobson,new york islanders
+8478104,sammy blais,new york rangers
+8471817,ryan reaves,new york rangers
+8474027,justin braun,new york rangers
+8475184,chris kreider,new york rangers
+8475735,greg mckegg,new york rangers
+8475747,patrik nemeth,new york rangers
+8475797,jarred tinordi,new york rangers
+8476234,keith kinkaid,new york rangers
+8476458,ryan strome,new york rangers
+8476459,mika zibanejad,new york rangers
+8476624,barclay goodrow,new york rangers
+8476885,jacob trouba,new york rangers
+8477353,tyler motte,new york rangers
+8477380,jonny brodzinski,new york rangers
+8477429,andrew copp,new york rangers
+8478048,igor shesterkin,new york rangers
+8478211,dryden hunt,new york rangers
+8478366,frank vatrano,new york rangers
+8478550,artemi panarin,new york rangers
+8479291,kevin rooney,new york rangers
+8479323,adam fox,new york rangers
+8479324,ryan lindgren,new york rangers
+8479328,julien gauthier,new york rangers
+8479333,libor hajek,new york rangers
+8479364,tim gettinger,new york rangers
+8480078,filip chytil,new york rangers
+8480382,alexandar georgiev,new york rangers
+8480817,k'andre miller,new york rangers
+8480878,nils lundkvist,new york rangers
+8480986,lauri pajuniemi,new york rangers
+8481525,matthew robertson,new york rangers
+8481554,kaapo kakko,new york rangers
+8481708,zac jones,new york rangers
+8482073,braden schneider,new york rangers
+8482109,alexis lafrenière,new york rangers
+8475176,ryan ellis,philadelphia flyers
+8476461,sean couturier,philadelphia flyers
+8470775,nate thompson,philadelphia flyers
+8471735,keith yandle,philadelphia flyers
+8474037,james van riemsdyk,philadelphia flyers
+8474715,cam atkinson,philadelphia flyers
+8474889,martin jones,philadelphia flyers
+8475246,kevin connauton,philadelphia flyers
+8475763,kevin hayes,philadelphia flyers
+8476372,nick seeler,philadelphia flyers
+8476872,scott laughton,philadelphia flyers
+8477499,rasmus ristolainen,philadelphia flyers
+8477887,patrick brown,philadelphia flyers
+8477948,travis sanheim,philadelphia flyers
+8478067,oskar lindblom,philadelphia flyers
+8478439,travis konecny,philadelphia flyers
+8478500,ivan provorov,philadelphia flyers
+8479394,carter hart,philadelphia flyers
+8479772,zack macewen,philadelphia flyers
+8480015,owen tippett,philadelphia flyers
+8480028,morgan frost,philadelphia flyers
+8480220,noah cates,philadelphia flyers
+8480797,joel farabee,philadelphia flyers
+8481521,ronnie attard,philadelphia flyers
+8481546,cam york,philadelphia flyers
+8481553,bobby brink,philadelphia flyers
+8470604,jeff carter,pittsburgh penguins
+8470619,brian boyle,pittsburgh penguins
+8471215,evgeni malkin,pittsburgh penguins
+8471675,sidney crosby,pittsburgh penguins
+8471724,kris letang,pittsburgh penguins
+8475208,brian dumoulin,pittsburgh penguins
+8475722,jason zucker,pittsburgh penguins
+8475810,bryan rust,pittsburgh penguins
+8475839,louis domingue,pittsburgh penguins
+8476470,nathan beaulieu,pittsburgh penguins
+8476483,rickard rakell,pittsburgh penguins
+8476875,mike matheson,pittsburgh penguins
+8476927,teddy blueger,pittsburgh penguins
+8476934,brock mcginn,pittsburgh penguins
+8477244,chad ruhwedel,pittsburgh penguins
+8477404,jake guentzel,pittsburgh penguins
+8477465,tristan jarry,pittsburgh penguins
+8477953,kasperi kapanen,pittsburgh penguins
+8477969,marcus pettersson,pittsburgh penguins
+8478017,mark friedman,pittsburgh penguins
+8478046,danton heinen,pittsburgh penguins
+8478507,john marino,pittsburgh penguins
+8478542,evan rodrigues,pittsburgh penguins
+8479193,casey desmith,pittsburgh penguins
+8480394,alex d'orio,pittsburgh penguins
+8482055,drew o'connor,pittsburgh penguins
+8482241,radim zohorna,pittsburgh penguins
+8478415,jakub zboril,boston bruins
+8470638,patrice bergeron,boston bruins
+8473419,brad marchand,boston bruins
+8473422,nick foligno,boston bruins
+8475225,craig smith,boston bruins
+8475287,erik haula,boston bruins
+8475745,charlie coyle,boston bruins
+8475762,derek forbort,boston bruins
+8475780,chris wagner,boston bruins
+8475791,taylor hall,boston bruins
+8476396,steven fogarty,boston bruins
+8476422,mike reilly,boston bruins
+8476854,hampus lindholm,boston bruins
+8476891,matt grzelcyk,boston bruins
+8476999,linus ullmark,boston bruins
+8477234,troy grosenick,boston bruins
+8477320,anton blidh,boston bruins
+8477343,tyler lewington,boston bruins
+8477365,connor clifton,boston bruins
+8477384,josh brown,boston bruins
+8477508,curtis lazar,boston bruins
+8477931,tomas nosek,boston bruins
+8477956,david pastrnak,boston bruins
+8478443,brandon carlo,boston bruins
+8478498,jake debrusk,boston bruins
+8478888,cameron hughes,boston bruins
+8479325,charlie mcavoy,boston bruins
+8479365,trent frederic,boston bruins
+8479533,joona koppanen,boston bruins
+8479546,oskar steen,boston bruins
+8480021,jack studnicka,boston bruins
+8480280,jeremy swayman,boston bruins
+8480356,kyle keyser,boston bruins
+8480880,jakub lauko,boston bruins
+8482059,nick wolff,boston bruins
+8482072,jack ahcan,boston bruins
+8482834,jesper froden,boston bruins
+8483397,marc mclaughlin,boston bruins
+8476876,malcolm subban,buffalo sabres
+8479465,drake caggiula,buffalo sabres
+8467950,craig anderson,buffalo sabres
+8473449,kyle okposo,buffalo sabres
+8474682,dustin tokarski,buffalo sabres
+8475236,cody eakin,buffalo sabres
+8475784,jeff skinner,buffalo sabres
+8475796,mark pysyk,buffalo sabres
+8476525,colin miller,buffalo sabres
+8476878,zemgus girgensons,buffalo sabres
+8476994,vinnie hinostroza,buffalo sabres
+8477355,will butcher,buffalo sabres
+8477401,john hayden,buffalo sabres
+8477949,alex tuch,buffalo sabres
+8478075,anders bjork,buffalo sabres
+8478109,victor olofsson,buffalo sabres
+8479335,rasmus asplund,buffalo sabres
+8479420,tage thompson,buffalo sabres
+8479999,casey mittelstadt,buffalo sabres
+8480035,henri jokiharju,buffalo sabres
+8480196,jacob bryson,buffalo sabres
+8480839,rasmus dahlin,buffalo sabres
+8481528,dylan cozens,buffalo sabres
+8482671,owen power,buffalo sabres
+8477494,jonathan drouin,montréal canadiens
+8470642,shea weber,montréal canadiens
+8471679,carey price,montréal canadiens
+8473507,jeff petry,montréal canadiens
+8473618,mathieu perreault,montréal canadiens
+8474038,paul byron,montréal canadiens
+8474596,jake allen,montréal canadiens
+8474884,mike hoffman,montréal canadiens
+8475227,chris wideman,montréal canadiens
+8475233,david savard,montréal canadiens
+8475752,tyler pitlick,montréal canadiens
+8475848,brendan gallagher,montréal canadiens
+8476441,joel edmundson,montréal canadiens
+8476469,joel armia,montréal canadiens
+8476981,josh anderson,montréal canadiens
+8477460,laurent dauphin,montréal canadiens
+8477989,christian dvorak,montréal canadiens
+8478021,william lagesson,montréal canadiens
+8478133,jake evans,montréal canadiens
+8478470,sam montembeault,montréal canadiens
+8479348,kale clague,montréal canadiens
+8479514,rem pitlick,montréal canadiens
+8479543,michael pezzetta,montréal canadiens
+8480018,nick suzuki,montréal canadiens
+8480068,ryan poehling,montréal canadiens
+8480887,jordan harris,montréal canadiens
+8481014,alexander romanov,montréal canadiens
+8481540,cole caufield,montréal canadiens
+8482111,justin barron,montréal canadiens
+8474589,tyler ennis,ottawa senators
+8476899,matt murray,ottawa senators
+8481596,shane pinto,ottawa senators
+8474207,nick holden,ottawa senators
+8474584,michael del zotto,ottawa senators
+8474612,travis hamonic,ottawa senators
+8475766,austin watson,ottawa senators
+8476341,anton forsberg,ottawa senators
+8476919,chris tierney,ottawa senators
+8477015,connor brown,ottawa senators
+8478400,colin white,ottawa senators
+8478469,thomas chabot,ottawa senators
+8478472,mathieu joseph,ottawa senators
+8478874,adam gaudette,ottawa senators
+8479376,victor mete,ottawa senators
+8479458,nikita zaitsev,ottawa senators
+8479580,dylan gambrell,ottawa senators
+8480029,alex formenton,ottawa senators
+8480064,josh norris,ottawa senators
+8480073,erik brannstrom,ottawa senators
+8480208,drake batherson,ottawa senators
+8480801,brady tkachuk,ottawa senators
+8482105,jake sanderson,ottawa senators
+8482116,tim stützle,ottawa senators
+8482245,artem zub,ottawa senators
+8469455,jason spezza,toronto maple leafs
+8470966,mark giordano,toronto maple leafs
+8474162,jake muzzin,toronto maple leafs
+8474190,wayne simmonds,toronto maple leafs
+8474636,michael hutchinson,toronto maple leafs
+8474673,tj brodie,toronto maple leafs
+8475160,kyle clifford,toronto maple leafs
+8475166,john tavares,toronto maple leafs
+8475718,justin holl,toronto maple leafs
+8475789,jack campbell,toronto maple leafs
+8475852,petr mrazek,toronto maple leafs
+8476278,colin blackwell,toronto maple leafs
+8476853,morgan rielly,toronto maple leafs
+8477021,alexander kerfoot,toronto maple leafs
+8477472,carl dahlstrom,toronto maple leafs
+8477939,william nylander,toronto maple leafs
+8478047,michael bunting,toronto maple leafs
+8478115,pierre engvall,toronto maple leafs
+8478131,ondrej kase,toronto maple leafs
+8478483,mitchell marner,toronto maple leafs
+8478881,brett seney,toronto maple leafs
+8478902,erik kallgren,toronto maple leafs
+8479315,joey anderson,toronto maple leafs
+8479318,auston matthews,toronto maple leafs
+8479729,kristians rubins,toronto maple leafs
+8480043,timothy liljegren,toronto maple leafs
+8480144,david kampf,toronto maple leafs
+8480439,mac hollowell,toronto maple leafs
+8480820,filip kral,toronto maple leafs
+8480873,rasmus sandin,toronto maple leafs
+8480950,ilya lyubushkin,toronto maple leafs
+8480995,pontus holmberg,toronto maple leafs
+8481582,nicholas robertson,toronto maple leafs
+8481624,ilya mikheyev,toronto maple leafs
+8481720,nicholas abruzzese,toronto maple leafs
+8482488,dmitry ovchinnikov,toronto maple leafs
+8482634,alex steeves,toronto maple leafs
+8473533,jordan staal,carolina hurricanes
+8474013,ian cole,carolina hurricanes
+8474090,brendan smith,carolina hurricanes
+8474613,derek stepan,carolina hurricanes
+8475799,nino niederreiter,carolina hurricanes
+8475855,jesper fast,carolina hurricanes
+8475883,frederik andersen,carolina hurricanes
+8476389,vincent trocheck,carolina hurricanes
+8476869,brady skjei,carolina hurricanes
+8476882,teuvo teravainen,carolina hurricanes
+8476921,jordan martinook,carolina hurricanes
+8476958,jaccob slavin,carolina hurricanes
+8477293,antti raanta,carolina hurricanes
+8477488,brett pesce,carolina hurricanes
+8477503,max domi,carolina hurricanes
+8477950,tony deangelo,carolina hurricanes
+8478427,sebastian aho,carolina hurricanes
+8478451,ethan bear,carolina hurricanes
+8478904,steven lorentz,carolina hurricanes
+8479581,jack lafontaine,carolina hurricanes
+8480039,martin necas,carolina hurricanes
+8480829,jesperi kotkaniemi,carolina hurricanes
+8480830,andrei svechnikov,carolina hurricanes
+8481611,pyotr kochetkov,carolina hurricanes
+8482093,seth jarvis,carolina hurricanes
+8478906,markus nutivaara,florida panthers
+8466138,joe thornton,florida panthers
+8471887,patric hornqvist,florida panthers
+8473512,claude giroux,florida panthers
+8475279,ben chiarot,florida panthers
+8475462,radko gudas,florida panthers
+8475683,sergei bobrovsky,florida panthers
+8476456,jonathan huberdeau,florida panthers
+8476989,petteri lindbohm,florida panthers
+8477346,mackenzie weegar,florida panthers
+8477407,anthony duclair,florida panthers
+8477409,carter verhaeghe,florida panthers
+8477462,robert hagg,florida panthers
+8477493,aleksander barkov,florida panthers
+8477932,aaron ekblad,florida panthers
+8477933,sam reinhart,florida panthers
+8477935,sam bennett,florida panthers
+8477986,brandon montour,florida panthers
+8477992,jonas johansson,florida panthers
+8478055,gustav forsling,florida panthers
+8478569,noel acciari,florida panthers
+8478975,mason marchment,florida panthers
+8479066,ryan lomberg,florida panthers
+8479523,lucas carlsson,florida panthers
+8479553,maxim mamin,florida panthers
+8480185,eetu luostarinen,florida panthers
+8481519,spencer knight,florida panthers
+8482113,anton lundell,florida panthers
+8470621,corey perry,tampa bay lightning
+8470880,brian elliott,tampa bay lightning
+8473986,alex killorn,tampa bay lightning
+8474034,pat maroon,tampa bay lightning
+8474062,riley nash,tampa bay lightning
+8474151,ryan mcdonagh,tampa bay lightning
+8474564,steven stamkos,tampa bay lightning
+8474567,zach bogosian,tampa bay lightning
+8475167,victor hedman,tampa bay lightning
+8476292,ondrej palat,tampa bay lightning
+8476453,nikita kucherov,tampa bay lightning
+8476883,andrei vasilevskiy,tampa bay lightning
+8477426,nicholas paul,tampa bay lightning
+8477930,pierre-edouard bellemare,tampa bay lightning
+8478010,brayden point,tampa bay lightning
+8478416,erik cernak,tampa bay lightning
+8478519,anthony cirelli,tampa bay lightning
+8479410,mikhail sergachev,tampa bay lightning
+8479525,ross colton,tampa bay lightning
+8479542,brandon hagel,tampa bay lightning
+8479984,cal foote,tampa bay lightning
+8480172,jan rutta,tampa bay lightning
+8474176,carl hagelin,washington capitals
+8481441,joe snively,washington capitals
+8471214,alex ovechkin,washington capitals
+8471698,t.j. oshie,washington capitals
+8473563,nicklas backstrom,washington capitals
+8474189,lars eller,washington capitals
+8474590,john carlson,washington capitals
+8474602,justin schultz,washington capitals
+8475149,marcus johansson,washington capitals
+8475200,dmitry orlov,washington capitals
+8475324,nick jensen,washington capitals
+8475343,nic dowd,washington capitals
+8475625,matt irwin,washington capitals
+8475728,johan larsson,washington capitals
+8475744,evgeny kuznetsov,washington capitals
+8476880,tom wilson,washington capitals
+8477511,anthony mantha,washington capitals
+8477831,pheonix copley,washington capitals
+8477839,conor sheary,washington capitals
+8477845,trevor van riemsdyk,washington capitals
+8477903,garnet hathaway,washington capitals
+8477970,vitek vanecek,washington capitals
+8478492,ilya samsonov,washington capitals
+8479482,michal kempny,washington capitals
+8479536,axel jonsson-fjallby,washington capitals
+8480796,martin fehervary,washington capitals
+8481580,connor mcmichael,washington capitals
+8476473,connor murphy,chicago blackhawks
+8476915,jujhar khaira,chicago blackhawks
+8473604,jonathan toews,chicago blackhawks
+8474141,patrick kane,chicago blackhawks
+8474870,tyler johnson,chicago blackhawks
+8475177,calvin de haan,chicago blackhawks
+8476931,jake mccabe,chicago blackhawks
+8476979,erik gustafsson,chicago blackhawks
+8477330,dominik kubalik,chicago blackhawks
+8477495,seth jones,chicago blackhawks
+8478043,sam lafferty,chicago blackhawks
+8478440,dylan strome,chicago blackhawks
+8478452,caleb jones,chicago blackhawks
+8479337,alex debrincat,chicago blackhawks
+8479383,boris katchouk,chicago blackhawks
+8479388,riley stillman,chicago blackhawks
+8479390,taylor raddysh,chicago blackhawks
+8479404,henrik borgstrom,chicago blackhawks
+8480025,mackenzie entwistle,chicago blackhawks
+8480420,collin delia,chicago blackhawks
+8480798,philipp kurashev,chicago blackhawks
+8480947,kevin lankinen,chicago blackhawks
+8481147,reese johnson,chicago blackhawks
+8481523,kirby dach,chicago blackhawks
+8481568,alex vlasic,chicago blackhawks
+8477240,carter rowney,detroit red wings
+8477952,robby fabbri,detroit red wings
+8475717,calvin pickard,detroit red wings
+8471306,thomas greiss,detroit red wings
+8471686,marc staal,detroit red wings
+8474040,sam gagner,detroit red wings
+8476433,magnus hellberg,detroit red wings
+8476505,turner elson,detroit red wings
+8476897,oskar sundqvist,detroit red wings
+8477215,danny dekeyser,detroit red wings
+8477454,adam erne,detroit red wings
+8477479,tyler bertuzzi,detroit red wings
+8477851,jordan oesterle,detroit red wings
+8477944,jakub vrana,detroit red wings
+8477946,dylan larkin,detroit red wings
+8477968,alex nedeljkovic,detroit red wings
+8478013,jake walman,detroit red wings
+8478477,mitchell stephens,detroit red wings
+8479355,olli juolevi,detroit red wings
+8479379,givani smith,detroit red wings
+8479425,filip hronek,detroit red wings
+8479992,michael rasmussen,detroit red wings
+8480184,gustav lindstrom,detroit red wings
+8480459,pius suter,detroit red wings
+8480821,filip zadina,detroit red wings
+8481542,moritz seider,detroit red wings
+8482078,lucas raymond,detroit red wings
+8479671,mathieu olivier,nashville predators
+8474600,roman josi,nashville predators
+8474697,mark borowiecki,nashville predators
+8475168,matt duchene,nashville predators
+8475218,mattias ekholm,nashville predators
+8475793,ryan johansen,nashville predators
+8475798,mikael granlund,nashville predators
+8476393,nick cousins,nashville predators
+8476887,filip forsberg,nashville predators
+8476925,colton sissons,nashville predators
+8476988,matt benning,nashville predators
+8477424,juuse saros,nashville predators
+8477433,ben harpur,nashville predators
+8477446,michael mccarron,nashville predators
+8478468,jeremy lauzon,nashville predators
+8478508,yakov trenin,nashville predators
+8478851,alexandre carrier,nashville predators
+8479026,philippe myers,nashville predators
+8479316,luke kunin,nashville predators
+8479371,dante fabbro,nashville predators
+8479496,david rittich,nashville predators
+8479644,matt luff,nashville predators
+8479661,tanner jeannot,nashville predators
+8480009,eeli tolvanen,nashville predators
+8481577,philip tomasino,nashville predators
+8474102,david perron,st. louis blues
+8474145,robert bortuzzo,st. louis blues
+8474618,marco scandella,st. louis blues
+8475098,tyler bozak,st. louis blues
+8475158,ryan o'reilly,st. louis blues
+8475170,brayden schenn,st. louis blues
+8475181,nick leddy,st. louis blues
+8475753,justin faulk,st. louis blues
+8475765,vladimir tarasenko,st. louis blues
+8476412,jordan binnington,st. louis blues
+8476438,brandon saad,st. louis blues
+8476792,torey krug,st. louis blues
+8476892,colton parayko,st. louis blues
+8477402,pavel buchnevich,st. louis blues
+8477573,nathan walker,st. louis blues
+8477964,ivan barbashev,st. louis blues
+8478024,ville husso,st. louis blues
+8478859,niko mikkola,st. louis blues
+8479366,logan brown,st. louis blues
+8479385,jordan kyrou,st. louis blues
+8480023,robert thomas,st. louis blues
+8480157,calle rosen,st. louis blues
+8480281,alexei toropchenko,st. louis blues
+8481059,scott perunovich,st. louis blues
+8477497,sean monahan,calgary flames
+8479976,juuso valimaki,calgary flames
+8473453,trevor lewis,calgary flames
+8473473,milan lucic,calgary flames
+8474150,mikael backlund,calgary flames
+8474593,jacob markstrom,calgary flames
+8474628,michael stone,calgary flames
+8475690,christopher tanev,calgary flames
+8475714,calle jarnkrok,calgary flames
+8475726,tyler toffoli,calgary flames
+8475790,erik gudbranson,calgary flames
+8476346,johnny gaudreau,calgary flames
+8476399,blake coleman,calgary flames
+8476439,brett ritchie,calgary flames
+8477496,elias lindholm,calgary flames
+8477507,nikita zadorov,calgary flames
+8477846,ryan carpenter,calgary flames
+8478233,andrew mangiapane,calgary flames
+8478396,noah hanifin,calgary flames
+8478397,rasmus andersson,calgary flames
+8478430,oliver kylington,calgary flames
+8478435,dan vladar,calgary flames
+8479314,matthew tkachuk,calgary flames
+8479346,dillon dube,calgary flames
+8479530,adam werner,calgary flames
+8480008,adam ruzicka,calgary flames
+8482067,connor mackey,calgary flames
+8483570,ben meyers,colorado avalanche
+8471677,jack johnson,colorado avalanche
+8471699,andrew cogliano,colorado avalanche
+8471794,darren helm,colorado avalanche
+8473446,erik johnson,colorado avalanche
+8475172,nazem kadri,colorado avalanche
+8475311,darcy kuemper,colorado avalanche
+8476312,josh manson,colorado avalanche
+8476455,gabriel landeskog,colorado avalanche
+8476850,ryan murray,colorado avalanche
+8477073,kurtis macdermid,colorado avalanche
+8477444,andre burakovsky,colorado avalanche
+8477456,j.t. compher,colorado avalanche
+8477476,artturi lehkonen,colorado avalanche
+8477492,nathan mackinnon,colorado avalanche
+8477501,valeri nichushkin,colorado avalanche
+8477979,nicolas aube-kubel,colorado avalanche
+8478038,devon toews,colorado avalanche
+8478420,mikko rantanen,colorado avalanche
+8479398,samuel girard,colorado avalanche
+8480069,cale makar,colorado avalanche
+8480925,pavel francouz,colorado avalanche
+8481186,logan o'connor,colorado avalanche
+8481477,nico sturm,colorado avalanche
+8481524,bowen byram,colorado avalanche
+8481618,alex newhook,colorado avalanche
+8474068,kyle turris,edmonton oilers
+8481598,philip broberg,edmonton oilers
+8469608,mike smith,edmonton oilers
+8470281,duncan keith,edmonton oilers
+8471729,kris russell,edmonton oilers
+8473544,derick brassard,edmonton oilers
+8475156,mikko koskinen,edmonton oilers
+8475169,evander kane,edmonton oilers
+8475178,zack kassian,edmonton oilers
+8475197,tyson barrie,edmonton oilers
+8475786,zach hyman,edmonton oilers
+8476326,josh archibald,edmonton oilers
+8476454,ryan nugent-hopkins,edmonton oilers
+8476879,cody ceci,edmonton oilers
+8476913,devin shore,edmonton oilers
+8476967,brett kulak,edmonton oilers
+8477498,darnell nurse,edmonton oilers
+8477934,leon draisaitl,edmonton oilers
+8477998,warren foegele,edmonton oilers
+8478402,connor mcdavid,edmonton oilers
+8478585,derek ryan,edmonton oilers
+8479344,jesse puljujarvi,edmonton oilers
+8479977,kailer yamamoto,edmonton oilers
+8480802,ryan mcleod,edmonton oilers
+8480803,evan bouchard,edmonton oilers
+8480885,olivier rodrigue,edmonton oilers
+8482108,carter savoie,edmonton oilers
+8477359,tucker poolman,vancouver canucks
+8481535,nils hoglander,vancouver canucks
+8477474,madison bowey,vancouver canucks
+8470755,brad richardson,vancouver canucks
+8470860,jaroslav halak,vancouver canucks
+8474568,luke schenn,vancouver canucks
+8474574,tyler myers,vancouver canucks
+8475163,alex chiasson,vancouver canucks
+8475171,oliver ekman-larsson,vancouver canucks
+8476468,j.t. miller,vancouver canucks
+8476779,brad hunt,vancouver canucks
+8476871,tanner pearson,vancouver canucks
+8477335,kyle burroughs,vancouver canucks
+8477450,jason dickinson,vancouver canucks
+8477500,bo horvat,vancouver canucks
+8477967,thatcher demko,vancouver canucks
+8477996,juho lammikko,vancouver canucks
+8478146,matthew highmore,vancouver canucks
+8478408,travis dermott,vancouver canucks
+8478444,brock boeser,vancouver canucks
+8478856,conor garland,vancouver canucks
+8480012,elias pettersson,vancouver canucks
+8480800,quinn hughes,vancouver canucks
+8475164,jakob silfverberg,anaheim ducks
+8481122,simon benoit,anaheim ducks
+8470612,ryan getzlaf,anaheim ducks
+8474031,kevin shattenkirk,anaheim ducks
+8474641,adam henrique,anaheim ducks
+8474683,derek grant,anaheim ducks
+8475764,cam fowler,anaheim ducks
+8475842,sam carrick,anaheim ducks
+8476434,john gibson,anaheim ducks
+8476932,anthony stolarz,anaheim ducks
+8477205,andrej sustr,anaheim ducks
+8477947,sonny milano,anaheim ducks
+8478866,dominik simon,anaheim ducks
+8478873,troy terry,anaheim ducks
+8479351,sam steel,anaheim ducks
+8479368,max jones,anaheim ducks
+8479372,josh mahura,anaheim ducks
+8479933,gerry mayhew,anaheim ducks
+8479944,zach aston-reese,anaheim ducks
+8479968,vinni lettieri,anaheim ducks
+8480001,urho vaakanainen,anaheim ducks
+8480031,max comtois,anaheim ducks
+8480806,isac lundestrom,anaheim ducks
+8481533,trevor zegras,anaheim ducks
+8482142,jamie drysdale,anaheim ducks
+8474651,braden holtby,dallas stars
+8470600,ryan suter,dallas stars
+8470794,joe pavelski,dallas stars
+8471228,alexander radulov,dallas stars
+8471284,andrej sekera,dallas stars
+8473994,jamie benn,dallas stars
+8475755,alexander petrovic,dallas stars
+8475794,tyler seguin,dallas stars
+8475809,scott wedgewood,dallas stars
+8475825,jani hakanpaa,dallas stars
+8475906,john klingberg,dallas stars
+8476480,vladislav namestnikov,dallas stars
+8476822,luke glendening,dallas stars
+8476889,radek faksa,dallas stars
+8476902,esa lindell,dallas stars
+8477290,michael raffl,dallas stars
+8477810,joel hanley,dallas stars
+8478449,roope hintz,dallas stars
+8478495,denis gurianov,dallas stars
+8478528,tanner kero,dallas stars
+8478854,ryan shea,dallas stars
+8478863,joseph cecconi,dallas stars
+8479362,riley tufte,dallas stars
+8479518,fredrik karlstrom,dallas stars
+8479587,rhett gardner,dallas stars
+8479979,jake oettinger,dallas stars
+8480027,jason robertson,dallas stars
+8480036,miro heiskanen,dallas stars
+8480216,jacob peterson,dallas stars
+8480226,marian studenic,dallas stars
+8480840,oskar back,dallas stars
+8480848,ty dellandrea,dallas stars
+8480988,riley damiani,dallas stars
+8481581,thomas harley,dallas stars
+8481641,joel kiviranta,dallas stars
+8482051,jerad rosburg,dallas stars
+8482642,adam scheel,dallas stars
+8474563,drew doughty,los angeles kings
+8480336,sean walker,los angeles kings
+8470606,dustin brown,los angeles kings
+8471303,alexander edler,los angeles kings
+8471685,anze kopitar,los angeles kings
+8471734,jonathan quick,los angeles kings
+8476479,phillip danault,los angeles kings
+8476874,olli maatta,los angeles kings
+8476960,andreas athanasiou,los angeles kings
+8477361,cal petersen,los angeles kings
+8477960,adrian kempe,los angeles kings
+8477962,brendan lemieux,los angeles kings
+8478042,viktor arvidsson,los angeles kings
+8478911,matt roy,los angeles kings
+8479336,carl grundstrom,los angeles kings
+8479421,jacob moverare,los angeles kings
+8479442,troy stecher,los angeles kings
+8479675,trevor moore,los angeles kings
+8479998,mikey anderson,los angeles kings
+8480014,gabriel vilardi,los angeles kings
+8480072,lias andersson,los angeles kings
+8480113,alex iafallo,los angeles kings
+8480434,sean durzi,los angeles kings
+8480467,austin strand,los angeles kings
+8480845,rasmus kupari,los angeles kings
+8481481,blake lizotte,los angeles kings
+8481560,arthur kaliyev,los angeles kings
+8481600,tobias bjornfot,los angeles kings
+8481606,jordan spence,los angeles kings
+8482124,quinton byfield,los angeles kings
+8478099,kevin labanc,san jose sharks
+8470613,brent burns,san jose sharks
+8471709,marc-edouard vlasic,san jose sharks
+8473503,james reimer,san jose sharks
+8474009,nick bonino,san jose sharks
+8474053,logan couture,san jose sharks
+8474578,erik karlsson,san jose sharks
+8476442,matt nieto,san jose sharks
+8476881,tomas hertl,san jose sharks
+8477034,jaycob megna,san jose sharks
+8478039,kaapo kahkonen,san jose sharks
+8478414,timo meier,san jose sharks
+8478467,nicolas meloche,san jose sharks
+8478499,adin hill,san jose sharks
+8478870,rudolfs balcers,san jose sharks
+8478967,lane pederson,san jose sharks
+8479373,jonathan dahlen,san jose sharks
+8479393,noah gregor,san jose sharks
+8479705,jeffrey viel,san jose sharks
+8479981,jonah gadjovich,san jose sharks
+8479983,mario ferraro,san jose sharks
+8480053,sasha chmelevski,san jose sharks
+8480060,scott reedy,san jose sharks
+8480160,radim simek,san jose sharks
+8480847,ryan merkley,san jose sharks
+8481061,jasper weatherby,san jose sharks
+8481077,john leonard,san jose sharks
+8481701,santeri hatakka,san jose sharks
+8482133,thomas bordeleau,san jose sharks
+8482222,alexander barabanov,san jose sharks
+8476432,boone jenner,columbus blue jackets
+8480074,alexandre texier,columbus blue jackets
+8480193,daniil tarasov,columbus blue jackets
+8481161,jake christiansen,columbus blue jackets
+8474161,jakub voracek,columbus blue jackets
+8474679,gustav nyquist,columbus blue jackets
+8475234,j-f berube,columbus blue jackets
+8476374,sean kuraly,columbus blue jackets
+8476867,brendan gaunce,columbus blue jackets
+8476914,joonas korpisalo,columbus blue jackets
+8477416,oliver bjorkstrand,columbus blue jackets
+8478007,elvis merzlikins,columbus blue jackets
+8478458,jack roslovic,columbus blue jackets
+8478460,zach werenski,columbus blue jackets
+8478506,gabriel carlsson,columbus blue jackets
+8478567,dean kukan,columbus blue jackets
+8478882,vladislav gavrikov,columbus blue jackets
+8479339,patrik laine,columbus blue jackets
+8479369,andrew peeke,columbus blue jackets
+8479402,jake bean,columbus blue jackets
+8479941,justin danforth,columbus blue jackets
+8479945,gavin bayreuther,columbus blue jackets
+8480205,emil bemstrom,columbus blue jackets
+8480292,carson meyer,columbus blue jackets
+8480762,eric robinson,columbus blue jackets
+8480871,adam boqvist,columbus blue jackets
+8482475,yegor chinakhov,columbus blue jackets
+8482660,kent johnson,columbus blue jackets
+8482705,cole sillinger,columbus blue jackets
+8483565,nick blankenburg,columbus blue jackets
+8470594,marc-andre fleury,minnesota wild
+8471274,alex goligoski,minnesota wild
+8474716,jared spurgeon,minnesota wild
+8474818,jordie benn,minnesota wild
+8475179,dmitry kulikov,minnesota wild
+8475220,marcus foligno,minnesota wild
+8475235,nicolas deslauriers,minnesota wild
+8475660,cam talbot,minnesota wild
+8475692,mats zuccarello,minnesota wild
+8475750,jon merrill,minnesota wild
+8475760,nick bjugstad,minnesota wild
+8476463,jonas brodin,minnesota wild
+8476856,matt dumba,minnesota wild
+8477451,ryan hartman,minnesota wild
+8477919,frederick gaudreau,minnesota wild
+8477942,kevin fiala,minnesota wild
+8478136,jacob middleton,minnesota wild
+8478413,jordan greenway,minnesota wild
+8478493,joel eriksson ek,minnesota wild
+8478864,kirill kaprizov,minnesota wild
+8479370,tyson jost,minnesota wild
+8479520,brandon duhaime,minnesota wild
+8480980,connor dewar,minnesota wild
+8481557,matt boldy,minnesota wild
+8482149,cole perfetti,winnipeg jets
+8478058,cj suess,winnipeg jets
+8479591,michael eyssimont,winnipeg jets
+8480005,kristian vesalainen,winnipeg jets
+8480049,dylan samberg,winnipeg jets
+8480289,morgan barron,winnipeg jets
+8481572,ville heinola,winnipeg jets
+8471218,blake wheeler,winnipeg jets
+8471669,paul stastny,winnipeg jets
+8475455,brenden dillon,winnipeg jets
+8476331,dylan demelo,winnipeg jets
+8476392,adam lowry,winnipeg jets
+8476460,mark scheifele,winnipeg jets
+8476945,connor hellebuyck,winnipeg jets
+8476952,dominic toninato,winnipeg jets
+8477220,nate schmidt,winnipeg jets
+8477480,eric comrie,winnipeg jets
+8477482,zach sanford,winnipeg jets
+8477504,josh morrissey,winnipeg jets
+8477940,nikolaj ehlers,winnipeg jets
+8478398,kyle connor,winnipeg jets
+8478424,jansen harkins,winnipeg jets
+8478431,evgeny svechnikov,winnipeg jets
+8478891,mason appleton,winnipeg jets
+8478996,adam brooks,winnipeg jets
+8479378,logan stanley,winnipeg jets
+8479400,pierre-luc dubois,winnipeg jets
+8480145,neal pionk,winnipeg jets
+8476436,dmitrij jaskin,arizona coyotes
+8479982,conor timmins,arizona coyotes
+8470626,loui eriksson,arizona coyotes
+8471217,andrew ladd,arizona coyotes
+8471873,anton stralman,arizona coyotes
+8473548,phil kessel,arizona coyotes
+8474291,jay beagle,arizona coyotes
+8474667,harri sateri,arizona coyotes
+8474849,antoine roussel,arizona coyotes
+8476329,travis boyd,arizona coyotes
+8476851,alex galchenyuk,arizona coyotes
+8476906,shayne gostisbehere,arizona coyotes
+8477070,liam o'brien,arizona coyotes
+8477941,nick ritchie,arizona coyotes
+8477951,nick schmaltz,arizona coyotes
+8478062,dysin mayo,arizona coyotes
+8478147,bokondji imama,arizona coyotes
+8478432,christian fischer,arizona coyotes
+8478474,lawson crouse,arizona coyotes
+8478476,kyle capobianco,arizona coyotes
+8478872,karel vejmelka,arizona coyotes
+8479341,cam dineen,arizona coyotes
+8479343,clayton keller,arizona coyotes
+8479345,jakob chychrun,arizona coyotes
+8479619,michael carcone,arizona coyotes
+8480849,barrett hayton,arizona coyotes
+8480855,jack mcbain,arizona coyotes
+8480979,nathan smith,arizona coyotes
+8481599,victor soderstrom,arizona coyotes
+8481609,vladislav kolyachonok,arizona coyotes
+8482655,j.j. moser,arizona coyotes
+8475191,reilly smith,vegas golden knights
+8476316,laurent brossoit,vegas golden knights
+8479353,brett howden,vegas golden knights
+8479974,nolan patrick,vegas golden knights
+8479980,nicolas hague,vegas golden knights
+8474149,evgenii dadonov,vegas golden knights
+8474157,max pacioretty,vegas golden knights
+8474166,alec martinez,vegas golden knights
+8474565,alex pietrangelo,vegas golden knights
+8475188,brayden mcnabb,vegas golden knights
+8475215,robin lehner,vegas golden knights
+8475913,mark stone,vegas golden knights
+8476448,william karlsson,vegas golden knights
+8476539,jonathan marchessault,vegas golden knights
+8476905,chandler stephenson,vegas golden knights
+8477018,ben hutton,vegas golden knights
+8477406,mattias janmark,vegas golden knights
+8477447,shea theodore,vegas golden knights
+8477478,william carrier,vegas golden knights
+8478020,michael amadio,vegas golden knights
+8478403,jack eichel,vegas golden knights
+8478434,keegan kolesar,vegas golden knights
+8478462,nicolas roy,vegas golden knights
+8479639,dylan coghlan,vegas golden knights
+8480313,logan thompson,vegas golden knights
+8480727,zach whitecloud,vegas golden knights
+8479293,brandon tanev,seattle kraken
+8479395,dennis cholowski,seattle kraken
+8474586,jordan eberle,seattle kraken
+8475768,jaden schwartz,seattle kraken
+8475772,riley sheahan,seattle kraken
+8475820,joonas donskoi,seattle kraken
+8475831,philipp grubauer,seattle kraken
+8476437,victor rask,seattle kraken
+8476457,adam larsson,seattle kraken
+8476467,jamie oleksiak,seattle kraken
+8476826,yanni gourde,seattle kraken
+8476884,derrick pouliot,seattle kraken
+8476904,chris driedger,seattle kraken
+8477369,carson soucy,seattle kraken
+8477505,alex wennberg,seattle kraken
+8477938,haydn fleury,seattle kraken
+8477955,jared mccann,seattle kraken
+8477987,ryan donato,seattle kraken
+8478407,vince dunn,seattle kraken
+8478466,daniel sprong,seattle kraken
+8478840,will borgen,seattle kraken
+8479986,kole lind,seattle kraken
+8479987,morgan geekie,seattle kraken
+8480901,karson kuhlman,seattle kraken
+8482665,matty beniers,seattle kraken
